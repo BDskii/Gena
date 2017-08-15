@@ -126,7 +126,6 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Subsystem>СтандартныеПодсистемы</Subsystem>
 			<Subsystem>ГенераторРолей</Subsystem>
 			<Subsystem>ГенераторРолейИнтерфейс</Subsystem>
 			<Role>АдминистраторСистемы</Role>

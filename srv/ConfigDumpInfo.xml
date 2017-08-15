@@ -118,7 +118,5 @@
 		<Metadata name="Subsystem.ГенераторРолей" id="54c321a2-724a-4e73-a5e4-fe556e4b23c3" configVersion="94e35f6f648af54f9f55cedb5b5f3a7500000000"/>
 		<Metadata name="Subsystem.ГенераторРолейИнтерфейс" id="54b1bc27-7e35-43b3-ac11-e626fdf292c5" configVersion="b78b387dca018e4c98181563a230d42200000000"/>
 		<Metadata name="Subsystem.ГенераторРолейИнтерфейс.CommandInterface" id="54b1bc27-7e35-43b3-ac11-e626fdf292c5.1" configVersion="50c3bfa7af83c24c8cb315f9c592b26000000000"/>
-		<Metadata name="Subsystem.СтандартныеПодсистемы" id="0421b67e-ed26-491d-ab98-ec59002ed4ce" configVersion="0c2abc867c81f24181c4efa875a90d1d00000000"/>
-		<Metadata name="Subsystem.СтандартныеПодсистемы.Subsystem.БазоваяФункциональность" id="cdbd26b1-9583-46e8-adf7-8cc705639892" configVersion="29b9d667cf55d04ba23ed8243552121000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

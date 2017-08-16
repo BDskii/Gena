@@ -48,9 +48,11 @@
 		<Metadata name="CommonModule.ЧтениеМетаданныхКлиентСерверПовтИсп.Module" id="01d4d191-123d-4539-8138-6a63301ef5d4.0" configVersion="44515cba50892e46bb4bfb49fecdd32800000000"/>
 		<Metadata name="CommonModule.ЧтениеМетаданныхСервер" id="c8d669c5-ddc8-4495-8d56-8e0c084eb491" configVersion="4c4adb242ecf0b4b8b37bf331243db9f00000000"/>
 		<Metadata name="CommonModule.ЧтениеМетаданныхСервер.Module" id="c8d669c5-ddc8-4495-8d56-8e0c084eb491.0" configVersion="460ad8aa960ff54bb6f075560cbba82a00000000"/>
+		<Metadata name="CommonPicture.ГенераторРолей" id="53df0bbb-c44e-45aa-9c44-e0f4706206fc" configVersion="81bb20684bc65d44933c99f00ca1fbf400000000"/>
+		<Metadata name="CommonPicture.ГенераторРолей.Picture" id="53df0bbb-c44e-45aa-9c44-e0f4706206fc.0" configVersion="32808dfbee550147a6aea7197b11c1c900000000"/>
 		<Metadata name="CommonTemplate.МодельДляЧтенияКонфигурации" id="9b8cbb81-a9d0-4f6b-a022-5d534ed9ca19" configVersion="c6a66ab3229bd946b30c259b14dd066300000000"/>
 		<Metadata name="CommonTemplate.МодельДляЧтенияКонфигурации.Template" id="9b8cbb81-a9d0-4f6b-a022-5d534ed9ca19.0" configVersion="d90bd4626aaa164c879b31f1331f6fc600000000"/>
-		<Metadata name="Configuration.ГенераторРолей" id="1fcfe3dd-e16b-4c02-befc-d7a80bfbebf1" configVersion="827d54fea93e054b9d1610851652aab900000000"/>
+		<Metadata name="Configuration.ГенераторРолей" id="1fcfe3dd-e16b-4c02-befc-d7a80bfbebf1" configVersion="44e2d1dbbfeb234286a229c4b67ccede00000000"/>
 		<Metadata name="Configuration.ГенераторРолей.ManagedApplicationModule" id="7fa47e1f-708f-4496-808d-e33405be632f.6" configVersion="61eb702fa5e45a49a4bd6f44c8f847d000000000"/>
 		<Metadata name="Configuration.ГенераторРолей.ParentConfigurations" id="7fa47e1f-708f-4496-808d-e33405be632f.4" configVersion="0effa514fe30c64bad68e0a059472a2600000000"/>
 		<Metadata name="Configuration.ГенераторРолей.SessionModule" id="7fa47e1f-708f-4496-808d-e33405be632f.7" configVersion="e573bbf70d7c554493c3375694bcea9d00000000"/>
@@ -116,7 +118,7 @@
 		<Metadata name="Role.ПолныеПрава" id="05505305-8bdc-47f1-8128-8ef61143edde" configVersion="019b403b56658d41bc29346eb3f5481d00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="05505305-8bdc-47f1-8128-8ef61143edde.0" configVersion="a966a057f6e48e4494aa77aa84d85a3900000000"/>
 		<Metadata name="Subsystem.ГенераторРолей" id="54c321a2-724a-4e73-a5e4-fe556e4b23c3" configVersion="94e35f6f648af54f9f55cedb5b5f3a7500000000"/>
-		<Metadata name="Subsystem.ГенераторРолейИнтерфейс" id="54b1bc27-7e35-43b3-ac11-e626fdf292c5" configVersion="b78b387dca018e4c98181563a230d42200000000"/>
+		<Metadata name="Subsystem.ГенераторРолейИнтерфейс" id="54b1bc27-7e35-43b3-ac11-e626fdf292c5" configVersion="9db81efcf040fd4a81bacf451593c3e400000000"/>
 		<Metadata name="Subsystem.ГенераторРолейИнтерфейс.CommandInterface" id="54b1bc27-7e35-43b3-ac11-e626fdf292c5.1" configVersion="50c3bfa7af83c24c8cb315f9c592b26000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

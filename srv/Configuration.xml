@@ -149,6 +149,7 @@
 			<Catalog>МетаданныеКонфигруации</Catalog>
 			<Enum>ТипыМетаданных</Enum>
 			<Enum>ТипЭлементаСтруктуры</Enum>
+			<Enum>ФорматВыгрузки</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
